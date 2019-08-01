@@ -3,7 +3,7 @@ An ongoing TypeScript port of the Macintosh Toolbox
 
 ___
 
-**...Rez, what are you doing?**
+**...[Rez](https://www.rezmason.net), what are you doing?**
 
 _What do you mean?_
 
@@ -35,6 +35,6 @@ _There are a couple Mac emulators that don't require ROMs— those are the ones 
 
 _I'm interested. And I've had some success porting things before. Let's just see where this goes._
 
-**All right. Is there a timetable or roadmap**
+**All right. Is there a timetable or roadmap?**
 
 _Not yet, no. This has zero priority. In fact that's the end of the FAQ until I know more._
