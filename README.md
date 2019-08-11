@@ -1,5 +1,7 @@
 # MacinTS
-An ongoing TypeScript port of the Macintosh Toolbox
+An ongoing TypeScript port of the (user space) Macintosh Toolbox
+
+![Not an actual screenshot.](https://github.com/Rezmason/MacinTS/raw/master/fakescreenshot.png "Fake Screenshot.")
 
 ___
 
