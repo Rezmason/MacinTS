@@ -29,6 +29,10 @@ _I want to implement the [Macintosh Toolbox](https://en.wikipedia.org/wiki/Macin
 
 _None, I hope. There's plenty of [Mac emulators](https://www.emaculation.com/doku.php) out there, and [these](https://jamesfriend.com.au/pce-js/) [two](https://archive.org/details/softwarelibrary_mac) are even on the web. MacinTS is more focused on personally discovering and recreating the mindset of the early Mac programmer, rather than virtualizing the old hardware. And if it turns out I'm being naive, no harm done._
 
+**Is this to play Dark Castle?**
+
+_This is to __make__ Dark Castles. In JavaScript._
+
 **So what's your plan?**
 
 _There are a couple Mac emulators that don't require ROMs— those are the ones that theoretically implement the Macintosh Toolbox. I'll fork one or both of those, and get to work migrating the (likely C) implementations and tests to TypeScript. If the result looks promising, I'll make an example project and host it, and maybe create an installable TS/JS package or something._
