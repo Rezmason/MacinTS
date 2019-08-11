@@ -1,0 +1,3 @@
+Start with a decent version of the original feature set
+    AMS is a good starting point
+8-color QuickDraw support would be interesting
